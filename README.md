@@ -7,7 +7,7 @@ Upload the plug-in and access to the editor using: `http://moodleurl/mod/qbanked
 
 To prettify the URL, use the supplied `.htaccess` on your Apache installation. You will need to suffix all URLs including API endpoints with **.php** if `.htaccess` is not supported.
 
-### Compatability
+### Compatibility
 Fully tested on Moodle open source version 3.2.2.
 
 ### Known Issue
