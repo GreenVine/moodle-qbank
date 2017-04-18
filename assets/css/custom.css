@@ -1,0 +1,39 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.editable-address {
+  display: block;
+  margin-bottom: 5px;  
+}
+
+.editable-address span {
+  width: 110px;  
+  display: inline-block;
+}
+
+.editable-item {
+	text-decoration: none !important;
+	color: #2c3e50 !important;
+}
+
+.editable-item-new {
+	color: #DD1144 !important;
+}
+
+.editable-buttons {
+  display: block;
+}
+
+.editable-container.editable-inline, .editableform > .control-group, .editable-input, .editableform .form-control {
+  width:100%;
+}
+
+.form-control {
+  padding: 5px !important;
+}
